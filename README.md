@@ -7,3 +7,5 @@ Textbook for this class -
 "Machine Learning Mastery With Python: Understand Your Data, Create Accurate Models and Work Projects End-To-End"
 by Jason Brownlee
 Code and text migrated to Jupyter with additions for class by Mitch Sanders 5/15/2017
+
+Python 2.7 
