@@ -1,4 +1,4 @@
-# machine_learning_mastery_in_python
+# Machine Learning Mastery in Python
 This is the material for a class I taught to Dell software engineers in early 2017. All code is in Jupyter notebook form with much of embedded lecture text included.
 
 This class was a 17 week course. Classes were for one hour once a week. Assumptions for students were to already be sufficient in Python and understand basic statistical practices and concepts. Goal was to bridge the startup gap needed by software engineers and introduce them fast and functionally to machine learning in python.
